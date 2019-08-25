@@ -1,12 +1,13 @@
 const Discord = require("discord.js");
-const client = new Discord.Client();
 const fs = require("fs");
 const cache = JSON.parse(fs.readFileSync("./caches.json", "utf8"))
 const config = JSON.parse(fs.readFileSync("./tokens.json", "utf8"))
 const token = config.tokens;
 const print = console.log
 
-client.on("ready", () => {
+token.map(acc => {
+    const client = new Discord.Client();
+    client.on("ready", () => {
     setInterval(() => {
         
     
@@ -20,7 +21,6 @@ print("Spamming Mentions ..")
             }
         }, cache.delay);
 })
-
-token.forEach(acc => {
-    client.login(acc)
+    
+    client.login(acc);
     });
