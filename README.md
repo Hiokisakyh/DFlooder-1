@@ -16,6 +16,7 @@ npm i termcolor --save
 npm i fs --save
 npm i readline-sync --save
 npm i figlet --save
+npm i discord.js@11 --save
 ```
 Step Two : Now Just Run It With command: node main.js
 
