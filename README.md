@@ -1,8 +1,7 @@
- # OUTDATED !!!! GO TO -> https://github.com/Bowlingtoolkit/DFlooder-3.0 FOR NEW VERSION !!
+ # OUTDATED !!!! [CLICK HERE FOR THE NEWEST VERSION](https://github.com/Bowlingtoolkit/DFlooder-3.0)
 
 
 # My Own Discord Raiding tools !
-# UNDER DEVELOPMENT
 My Own Discord Raiding tools !
 
 
