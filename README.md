@@ -19,7 +19,7 @@ npm i discord.js@11 --save
 ```
 Step Two : Now Just Run It With command: node main.js
 
-# All rights are reserved to me ! please dont be kid and share this without type the rights because i will kick your ass.
+# All rights are reserved to me ! please dont be a kid and share this without typing the rights because i will kick your ass.
 
 
 # Please if you a developer edit this toolbox and make your own edition and tell me
